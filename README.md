@@ -1,4 +1,4 @@
-# Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
