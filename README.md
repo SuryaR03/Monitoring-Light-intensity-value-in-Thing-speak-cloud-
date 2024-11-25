@@ -1,6 +1,6 @@
 ## NAME : SURYA R
 ## REG NO : 212223110056
-# EX-04 Monitoring-Light-intensity-value-in-Thing-speak-cloud
+# EX-04 Monitoring Light intensity value in Thing speak cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
